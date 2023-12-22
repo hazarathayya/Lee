@@ -6,4 +6,5 @@ Lee algorithm in cpp
   - using mpi
 
 
-Serial version of this code is taken from [here](https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/)
+References : 
+[here](https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/)
